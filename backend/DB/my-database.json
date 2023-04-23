@@ -1,0 +1,78 @@
+{
+  "tables": {
+    "winners": {
+      "schema": {
+        "fields": {
+          "id": {
+            "type": "number",
+            "primaryKey": true
+          },
+          "name": {
+            "type": "string"
+          },
+          "phone": {
+            "type": "string"
+          },
+          "birthday": {
+            "type": "string"
+          },
+          "age": {
+            "type": "number"
+          }
+        }
+      },
+      "data": [
+        {
+          "name": "59ce",
+          "age": 15,
+          "phone": "+888888888",
+          "birthday": "80-2530",
+          "id": 4
+        },
+        {
+          "name": "59ce",
+          "age": 15,
+          "phone": "+888888888",
+          "birthday": "80-2530",
+          "id": 5
+        },
+        {
+          "name": "59ce",
+          "age": 15,
+          "phone": "+888888888",
+          "birthday": "80-2530",
+          "id": 7
+        },
+        {
+          "name": "59ce",
+          "age": 15,
+          "phone": "+888888888",
+          "birthday": "80-2530",
+          "id": 8
+        },
+        {
+          "name": "59ce",
+          "age": 15,
+          "phone": "+888888888",
+          "birthday": "80-2530",
+          "id": 9
+        },
+        {
+          "name": "59ce",
+          "age": 15,
+          "phone": "+888888888",
+          "birthday": "80-2530",
+          "id": 10
+        },
+        {
+          "name": "59ce",
+          "age": 15,
+          "phone": "+888888888",
+          "birthday": "80-2530",
+          "id": 11
+        }
+      ],
+      "nextId": 12
+    }
+  }
+}
